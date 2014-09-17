@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		934FFF5B19C9951D00B66314 /* B.txt in Resources */ = {isa = PBXBuildFile; fileRef = 934FFF5A19C9951D00B66314 /* B.txt */; };
 		93BF347919C9864300FDFC5D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93BF347819C9864300FDFC5D /* Foundation.framework */; };
 		93BF347B19C9864300FDFC5D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93BF347A19C9864300FDFC5D /* CoreGraphics.framework */; };
 		93BF347D19C9864300FDFC5D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93BF347C19C9864300FDFC5D /* UIKit.framework */; };
@@ -33,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		934FFF5A19C9951D00B66314 /* B.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = B.txt; path = ../submodules/modB/B.txt; sourceTree = "<group>"; };
 		93BF347519C9864300FDFC5D /* gittestmain.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gittestmain.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93BF347819C9864300FDFC5D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		93BF347A19C9864300FDFC5D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -84,6 +86,7 @@
 				93BF347719C9864300FDFC5D /* Frameworks */,
 				93BF347619C9864300FDFC5D /* Products */,
 				93BF34A719C98E9D00FDFC5D /* A.txt */,
+				934FFF5A19C9951D00B66314 /* B.txt */,
 			);
 			sourceTree = "<group>";
 		};
@@ -224,6 +227,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				93BF34A819C98E9D00FDFC5D /* A.txt in Resources */,
+				934FFF5B19C9951D00B66314 /* B.txt in Resources */,
 				93BF348319C9864300FDFC5D /* InfoPlist.strings in Resources */,
 				93BF348B19C9864300FDFC5D /* Images.xcassets in Resources */,
 			);
