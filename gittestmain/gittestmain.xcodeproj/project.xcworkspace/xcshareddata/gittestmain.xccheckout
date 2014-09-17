@@ -10,6 +10,8 @@
 	<string>gittestmain</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>01373B06-7695-4B06-B526-5530E551EF8B</key>
+		<string>https://github.com/jon-woodhead/GTSubA</string>
 		<key>C7789636-75B9-4C83-A520-B2F329901E70</key>
 		<string>https://github.com/jon-woodhead/GTMain</string>
 	</dict>
@@ -17,6 +19,8 @@
 	<string>gittestmain/gittestmain.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>01373B06-7695-4B06-B526-5530E551EF8B</key>
+		<string>../../../submodules/modA</string>
 		<key>C7789636-75B9-4C83-A520-B2F329901E70</key>
 		<string>../../..</string>
 	</dict>
@@ -35,6 +39,14 @@
 			<string>C7789636-75B9-4C83-A520-B2F329901E70</string>
 			<key>IDESourceControlWCCName</key>
 			<string>GTMain</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>01373B06-7695-4B06-B526-5530E551EF8B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>modA</string>
 		</dict>
 	</array>
 </dict>
