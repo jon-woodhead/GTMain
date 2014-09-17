@@ -1,0 +1,6 @@
+[submodule "submodules/modA"]
+	path = submodules/modA
+	url = https://github.com/jon-woodhead/GTSubA
+[submodule "submodules/modB"]
+	path = submodules/modB
+	url = https://github.com/jon-woodhead/GTSubB
